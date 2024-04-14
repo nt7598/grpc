@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM alpine:3.11
+FROM alpine:3.16.9
 
 # Install Git and basic packages.
 RUN apk update && apk add \
