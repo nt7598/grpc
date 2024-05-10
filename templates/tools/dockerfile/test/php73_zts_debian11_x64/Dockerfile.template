@@ -15,7 +15,7 @@
   # limitations under the License.
   
   # debian 11 = "bullseye"
-  FROM php:7.3-zts-bullseye
+  FROM php:7.4-zts-bullseye
   
   RUN apt-get update && apt-get install -y ${'\\'}
     autoconf automake build-essential git libtool curl ${'\\'}
