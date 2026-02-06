@@ -17,5 +17,5 @@ tenacity~=6.2
 packaging~=21.3
 Pygments~=2.9
 python-dateutil~=2.8
-protobuf~=3.14
+protobuf~=5.29.6
 xds-protos~=0.0.8
